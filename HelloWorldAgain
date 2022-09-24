@@ -1,0 +1,6 @@
+open System
+
+[<EntryPoint>]
+let main argv =
+    printfn "Hello Would, or in this case Professor, I am in you class again and this time I checked the assigments area!"
+    0 
